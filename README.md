@@ -23,7 +23,7 @@ This portfolio is built for the intersection of **AI systems** and **banking/fin
  
 | # | Project | Capability proven | Banking Focus | Status |
 |---|---------|-------------------|---------------|--------|
-| 1 | AI Capability Comparator | Translate AI into business outcomes | Wire transfer data extraction | Planned |
+| 1 | [AI Capability Comparator](https://github.com/Xander-Le/capability-comparator) | Translate AI into business outcomes | Payments processing | Live |
 | 2 | RAG over WAB Annual Reports + FDIC Filings | Direct technical work | Banking strategy & risk research | Planned |
 | 3 | Payment Rail Q&A Agent (with MCP) | Direct technical work + Manage AI risk | RTP / Wire / ACH routing | Planned |
 | 4 | Eval Suite for the RAG System | Define and measure AI quality | Data quality / accuracy in banking context | Planned |
