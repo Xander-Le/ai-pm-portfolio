@@ -34,20 +34,22 @@ This portfolio is built for the intersection of **AI systems** and **banking/fin
 
 Each project links to its own repo with a full write-up: the problem, the PM framing, the approach, the results, and what I'd do differently at production scale.
 
-## Domain knowledge reference
+## Domain Knowledge
+Alongside the technical portfolio, I am building fluency in the
+domains where AI carries the highest stakes.
 
-- [Banking domain primer](docs/banking-domain-primer.md) — payment rails (RTP, Fedwire, ACH, Book Transfer, FedNow), institutional digital asset services (custody, buy/sell, staking), and regulatory landscape (OCC, FinCEN, SR 11-7) — in plain language.
+- **Banking infrastructure**: payment rails (RTP, Fedwire, ACH,
+  FedNow, Book Transfer), settlement mechanics, fraud detection
+  architecture
+- **Digital asset services**: custody, brokerage, staking,
+  FinCEN Travel Rule, OCC regulatory framework (Letters 1170,
+  1172, 1179)
+- **Regulatory environment**: SR 11-7 model risk management,
+  NIST AI RMF, fair lending (ECOA / Reg B)
+
+[Banking Domain Primer](docs/banking-domain-primer.md)
 
 ## About
 
 I'm a Product Manager at Cvent — the world's leading event management SaaS ($1B+ revenue) — where I established and led the company's AI feature governance standards: feature-flag controls, compliance checks, and cross-team procedures for responsible, policy-aligned AI deployment. Earlier I worked in global mobility SaaS at Equus Software. My academic background is in Management Information Systems and Finance. I'm now building toward AI PM roles in banking and fintech infrastructure, specifically at companies operating at the intersection of payment rails, digital assets, and AI — where governance and velocity both matter. This portfolio is a focused build sprint — the page fills in as each project ships.
 
-<!--
-HOW TO USE THIS FILE:
-1. This goes in a new public repo named exactly: ai-pm-portfolio
-2. When you save it on GitHub, the file must be named README.md.
-3. As you finish each project, change its Status from "Planned" to "Live" and
-   turn the project name into a link to its repo, e.g.
-   | 1 | [AI Capability Comparator](https://github.com/Xander-Le/capability-comparator) | ... | Live |
-4. Once you write docs/banking-domain-primer.md, the link in "Domain knowledge reference" above will work.
--->
